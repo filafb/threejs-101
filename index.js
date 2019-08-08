@@ -1,3 +1,4 @@
+//source: https://www.youtube.com/watch?v=6oFvqLfRnsU
 const scene = new THREE.Scene();
 /**
  * camera: (field of view, aspect ratio, near plane, far plane)
